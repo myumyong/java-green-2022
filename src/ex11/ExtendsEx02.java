@@ -126,4 +126,4 @@ public class ExtendsEx02 {
         attack(bear, lion);
         attack(tiger, lion);
     }
-}// 2022.01.14
+}// 2022.01.14..
