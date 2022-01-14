@@ -21,4 +21,4 @@ public class ExtendsEx01 {
         라면 s3 = new 매운라면();
         // System.out.println(s3.type2);
     }
-}
+} // 2022.01.14

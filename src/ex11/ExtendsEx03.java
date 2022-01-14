@@ -34,4 +34,4 @@ public class ExtendsEx03 {
         start(new 강아지());
         start(new 고양이());
     }
-}
+} // 2022.01.14
