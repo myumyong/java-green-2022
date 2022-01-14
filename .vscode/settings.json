@@ -1,0 +1,29 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.outputPath": "bin"
+
+    "terminal.integrated.profiles.windows": {
+        "GitBash": {
+            "path":["C:\\Git\\bin\\bash.exe"],
+            "icon":"terminal-bash"
+        },
+ 
+        "PowerShell": {
+            "source": "PowerShell",
+            "icon": "terminal-powershell"
+        },
+        "Command Prompt": {
+            "path": [
+                "${env:windir}\\Sysnative\\cmd.exe",
+                "${env:windir}\\System32\\cmd.exe"
+            ],
+            "args": [],
+            "icon": "terminal-cmd"
+        },
+ 
+ 
+    },
+    "terminal.integrated.defaultProfile.windows": "GitBash",
+}
